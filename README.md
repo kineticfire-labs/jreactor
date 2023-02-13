@@ -1,2 +1,2 @@
 # jreactor
-Java implementation of the Reactor architectural design pattern
+Java implementation of the Reactor architectural design pattern.
