@@ -19,6 +19,9 @@ The JReactor from KineticFire Labs provides intrinsic concurrency and error mana
 
 # Key Concepts
 
+![image](https://user-images.githubusercontent.com/60242848/218762452-9d291f5d-21a4-43f0-84c0-c7c0f9429948.png)
+
+
 ## Event Sources
 Event sources are objects that fire events known as ready operations.  Examples of event sources and their ready operations include:  a queue fires 'data available', a timer fires 'timer expired', and a network channel fires 'accept ready', 'connection ready', 'read ready', and/or 'write ready'.  The event source doesn't process the event-- that's up to an event handler.
 
